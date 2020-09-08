@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, fellow <dev/>
+You have finally discovered my Github profile.
+Please feel free to clone/fork my useless projects, raise issues and submit PRs to waster your time.
+If you think something could be better, reach me at
+
+
 
 <!--
 **condinoaljoseph/condinoaljoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
