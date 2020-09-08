@@ -5,7 +5,7 @@ You have finally discovered my Github profile.
 Please feel free to clone/fork my useless projects, raise issues and submit PRs to waste your time.
 If you think something could be better, reach me at
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40condino_aj&style=social&url=https%3A%2F%2Ftwitter.com%2Fcondino_aj)](https://twitter.com/condinoa_aj)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40condino_aj&style=social&url=https%3A%2F%2Ftwitter.com%2Fcondino_aj)](https://twitter.com/condino_aj)
 ![GitHub followers](https://img.shields.io/github/followers/condinoaljoseph?style=social)
 
 ### Technologies
