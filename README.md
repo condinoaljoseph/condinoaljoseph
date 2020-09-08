@@ -1,3 +1,6 @@
+![condensed](https://github.com/condinoaljoseph/condinoaljoseph/blob/master/45867176_1181473098673575_2711773682757271552_o.jpg
+?raw=true)
+
 ### Hello there, fellow `<dev/>`
 You have finally discovered my Github profile.
 Please feel free to clone/fork my useless projects, raise issues and submit PRs to waste your time.
