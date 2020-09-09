@@ -1,4 +1,4 @@
-[![Header](https://github.com/condinoaljoseph/condinoaljoseph/raw/master/45867176_1181473098673575_2711773682757271552_o.jpg)](https://www.facebook.com/aljoseph.condino)
+[![Header](https://github.com/condinoaljoseph/condinoaljoseph/blob/master/507616.png)](https://www.facebook.com/aljoseph.condino)
 
 ### Hello there, fellow `<developers/>`
 You have finally discovered my Github profile.
