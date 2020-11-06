@@ -1,7 +1,7 @@
 [![Header](https://github.com/condinoaljoseph/condinoaljoseph/blob/master/507616.png)](https://www.facebook.com/aljoseph.condino)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=condinoaljoseph&theme=monokai&show_icons=true)](https://github.com/condinoaljoseph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai)](https://github.com/condinoaljoseph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condinoaljoseph&layout=compact&theme=monokai)](https://github.com/condinoaljoseph)
 
 ### Hello there, fellow `<developers/>`
 You have finally discovered my Github profile.
