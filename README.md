@@ -4,13 +4,15 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=condinoaljoseph&theme=monokai&show_icons=true)](https://github.com/condinoaljoseph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condinoaljoseph&layout=compact&theme=monokai)](https://github.com/condinoaljoseph)
 -->
-### Hello there, fellow `<developers/>`
+### Hello there, fellow `<devs/>`
 You have finally discovered my Github profile.
 Please feel free to clone/fork my **useless** projects, raise issues and submit PRs to **waste** your time.
 If you think something could be better, **reach me at**
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40condino_aj&style=social&url=https%3A%2F%2Ftwitter.com%2Fcondino_aj)](https://twitter.com/condino_aj)
 ![GitHub followers](https://img.shields.io/github/followers/condinoaljoseph?style=social)
+
+<!--
 
 ### Technology Stacks
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -27,7 +29,7 @@ If you think something could be better, **reach me at**
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-<!--
+
 **condinoaljoseph/condinoaljoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
