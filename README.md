@@ -1,5 +1,5 @@
 ```sh
 (\_/)
 ( •_•)
-/ >#CSPR
+/ >#TYPESCRIPT
 ```
